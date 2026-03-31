@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=f97316&center=true&vCenter=true&width=600&lines=Open%20Source%20Enthusiast;20%20year%2B%20Linux%20user;Vibe-Coder;Claude%20Code%20%3C3;Local%20LLM's;Electronics%20Nerd;Disc%20Golfer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=f97316&center=true&vCenter=true&width=600&lines=Open%20Source%20Enthusiast;20%20year%2B%20Linux%20user;Agentic%20Coder;Local%20LLM's;Electronics%20Nerd;Disc%20Golfer)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonaspettersson85/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jpettersson@gmail.com)
 
